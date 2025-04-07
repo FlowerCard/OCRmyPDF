@@ -1,6 +1,6 @@
 # OCRmyPDF 中文说明
 
-我将为您创建一个中文版的 README.md 文件。以下是基于原始英文版本的中文翻译：
+以下是基于原始英文版本的中文翻译：
 
 
 <!-- SPDX-FileCopyrightText: 2014 Julien Pfefferkorn -->
