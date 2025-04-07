@@ -2,7 +2,7 @@
 
 我将为您创建一个中文版的 README.md 文件。以下是基于原始英文版本的中文翻译：
 
-```markdown:/Users/huapai/PycharmProjects/OCRmyPDF/README.md
+
 <!-- SPDX-FileCopyrightText: 2014 Julien Pfefferkorn -->
 <!-- SPDX-FileCopyrightText: 2015 James R. Barlow -->
 <!-- SPDX-License-Identifier: CC-BY-SA-4.0 -->
